@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eijohghai.joholliday.co.uk/sitemap.xml
